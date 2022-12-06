@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 正在搞量化
-- 🔭 核心是CTA，HFT
+
 
 <!--
 **Zxser/Zxser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
